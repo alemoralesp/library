@@ -1,7 +1,11 @@
-Laravel version 7.4.0
-php version 7.3.13
-mysql version 15.1
+#LIBRARY
 
+Laravel version 7.4.0
+<br/>
+php version 7.3.13
+<br/>
+mysql version 15.1
+<br/>
 
 <p>Crear base de datos con los datos de acceso definidos en el archivo .env o definir datos propios y actualizar el archivo .env</p>
 
